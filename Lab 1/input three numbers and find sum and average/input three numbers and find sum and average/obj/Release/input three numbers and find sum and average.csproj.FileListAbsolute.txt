@@ -1,0 +1,1 @@
+E:\BCA projects\C#\Lab 1\input three numbers and find sum and average\input three numbers and find sum and average\bin\Release\input three numbers and find sum and average.exe.config

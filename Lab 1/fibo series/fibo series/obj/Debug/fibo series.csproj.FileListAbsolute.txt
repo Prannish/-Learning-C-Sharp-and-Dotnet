@@ -1,0 +1,5 @@
+E:\BCA projects\C#\Lab 1\fibo series\fibo series\bin\Debug\fibo series.exe.config
+E:\BCA projects\C#\Lab 1\fibo series\fibo series\bin\Debug\fibo series.exe
+E:\BCA projects\C#\Lab 1\fibo series\fibo series\bin\Debug\fibo series.pdb
+E:\BCA projects\C#\Lab 1\fibo series\fibo series\obj\Debug\fibo series.exe
+E:\BCA projects\C#\Lab 1\fibo series\fibo series\obj\Debug\fibo series.pdb

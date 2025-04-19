@@ -1,0 +1,6 @@
+E:\BCA projects\C#\Lab 1\input three numbers and find sum and average\input three numbers and find sum and average\bin\Debug\input three numbers and find sum and average.exe.config
+E:\BCA projects\C#\Lab 1\input three numbers and find sum and average\input three numbers and find sum and average\bin\Debug\input three numbers and find sum and average.exe
+E:\BCA projects\C#\Lab 1\input three numbers and find sum and average\input three numbers and find sum and average\bin\Debug\input three numbers and find sum and average.pdb
+E:\BCA projects\C#\Lab 1\input three numbers and find sum and average\input three numbers and find sum and average\obj\Debug\input three numbers and find sum and average.csprojResolveAssemblyReference.cache
+E:\BCA projects\C#\Lab 1\input three numbers and find sum and average\input three numbers and find sum and average\obj\Debug\input three numbers and find sum and average.exe
+E:\BCA projects\C#\Lab 1\input three numbers and find sum and average\input three numbers and find sum and average\obj\Debug\input three numbers and find sum and average.pdb

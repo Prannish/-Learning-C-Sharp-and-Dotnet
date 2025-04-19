@@ -1,0 +1,6 @@
+E:\BCA projects\C#\Lab 1\find middle number\find middle number\bin\Debug\find middle number.exe.config
+E:\BCA projects\C#\Lab 1\find middle number\find middle number\bin\Debug\find middle number.exe
+E:\BCA projects\C#\Lab 1\find middle number\find middle number\bin\Debug\find middle number.pdb
+E:\BCA projects\C#\Lab 1\find middle number\find middle number\obj\Debug\find middle number.csprojResolveAssemblyReference.cache
+E:\BCA projects\C#\Lab 1\find middle number\find middle number\obj\Debug\find middle number.exe
+E:\BCA projects\C#\Lab 1\find middle number\find middle number\obj\Debug\find middle number.pdb
