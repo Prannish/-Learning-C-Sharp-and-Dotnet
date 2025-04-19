@@ -1,0 +1,5 @@
+E:\BCA projects\C#\Lab 1\prime or not\prime or not\bin\Debug\prime or not.exe.config
+E:\BCA projects\C#\Lab 1\prime or not\prime or not\bin\Debug\prime or not.exe
+E:\BCA projects\C#\Lab 1\prime or not\prime or not\bin\Debug\prime or not.pdb
+E:\BCA projects\C#\Lab 1\prime or not\prime or not\obj\Debug\prime or not.exe
+E:\BCA projects\C#\Lab 1\prime or not\prime or not\obj\Debug\prime or not.pdb

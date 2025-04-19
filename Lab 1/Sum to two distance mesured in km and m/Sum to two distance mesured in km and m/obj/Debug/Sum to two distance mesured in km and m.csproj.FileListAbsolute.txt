@@ -1,0 +1,6 @@
+E:\BCA projects\C#\Lab 1\Sum to two distance mesured in km and m\Sum to two distance mesured in km and m\bin\Debug\Sum to two distance mesured in km and m.exe.config
+E:\BCA projects\C#\Lab 1\Sum to two distance mesured in km and m\Sum to two distance mesured in km and m\bin\Debug\Sum to two distance mesured in km and m.exe
+E:\BCA projects\C#\Lab 1\Sum to two distance mesured in km and m\Sum to two distance mesured in km and m\bin\Debug\Sum to two distance mesured in km and m.pdb
+E:\BCA projects\C#\Lab 1\Sum to two distance mesured in km and m\Sum to two distance mesured in km and m\obj\Debug\Sum to two distance mesured in km and m.csprojResolveAssemblyReference.cache
+E:\BCA projects\C#\Lab 1\Sum to two distance mesured in km and m\Sum to two distance mesured in km and m\obj\Debug\Sum to two distance mesured in km and m.exe
+E:\BCA projects\C#\Lab 1\Sum to two distance mesured in km and m\Sum to two distance mesured in km and m\obj\Debug\Sum to two distance mesured in km and m.pdb

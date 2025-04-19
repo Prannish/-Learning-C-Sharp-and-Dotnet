@@ -1,0 +1,6 @@
+E:\BCA projects\C#\Lab 1\tsa of cuboid\tsa of cuboid\bin\Debug\tsa of cuboid.exe.config
+E:\BCA projects\C#\Lab 1\tsa of cuboid\tsa of cuboid\bin\Debug\tsa of cuboid.exe
+E:\BCA projects\C#\Lab 1\tsa of cuboid\tsa of cuboid\bin\Debug\tsa of cuboid.pdb
+E:\BCA projects\C#\Lab 1\tsa of cuboid\tsa of cuboid\obj\Debug\tsa of cuboid.csprojResolveAssemblyReference.cache
+E:\BCA projects\C#\Lab 1\tsa of cuboid\tsa of cuboid\obj\Debug\tsa of cuboid.exe
+E:\BCA projects\C#\Lab 1\tsa of cuboid\tsa of cuboid\obj\Debug\tsa of cuboid.pdb
