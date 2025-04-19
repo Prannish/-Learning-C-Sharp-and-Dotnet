@@ -1,0 +1,5 @@
+E:\BCA projects\C#\Lab 1\arithemetic operations using switch case\arithemetic operations using switch case\bin\Debug\arithemetic operations using switch case.exe.config
+E:\BCA projects\C#\Lab 1\arithemetic operations using switch case\arithemetic operations using switch case\bin\Debug\arithemetic operations using switch case.exe
+E:\BCA projects\C#\Lab 1\arithemetic operations using switch case\arithemetic operations using switch case\bin\Debug\arithemetic operations using switch case.pdb
+E:\BCA projects\C#\Lab 1\arithemetic operations using switch case\arithemetic operations using switch case\obj\Debug\arithemetic operations using switch case.exe
+E:\BCA projects\C#\Lab 1\arithemetic operations using switch case\arithemetic operations using switch case\obj\Debug\arithemetic operations using switch case.pdb

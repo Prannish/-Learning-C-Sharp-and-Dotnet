@@ -1,0 +1,5 @@
+E:\BCA projects\C#\Lab 1\armstrong or not\armstrong or not\bin\Debug\armstrong or not.exe.config
+E:\BCA projects\C#\Lab 1\armstrong or not\armstrong or not\bin\Debug\armstrong or not.exe
+E:\BCA projects\C#\Lab 1\armstrong or not\armstrong or not\bin\Debug\armstrong or not.pdb
+E:\BCA projects\C#\Lab 1\armstrong or not\armstrong or not\obj\Debug\armstrong or not.exe
+E:\BCA projects\C#\Lab 1\armstrong or not\armstrong or not\obj\Debug\armstrong or not.pdb

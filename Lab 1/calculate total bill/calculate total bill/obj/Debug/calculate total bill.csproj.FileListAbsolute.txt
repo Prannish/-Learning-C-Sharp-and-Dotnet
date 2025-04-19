@@ -1,0 +1,6 @@
+E:\BCA projects\C#\Lab 1\calculate total bill\calculate total bill\bin\Debug\calculate total bill.exe.config
+E:\BCA projects\C#\Lab 1\calculate total bill\calculate total bill\bin\Debug\calculate total bill.exe
+E:\BCA projects\C#\Lab 1\calculate total bill\calculate total bill\bin\Debug\calculate total bill.pdb
+E:\BCA projects\C#\Lab 1\calculate total bill\calculate total bill\obj\Debug\calculate total bill.csprojResolveAssemblyReference.cache
+E:\BCA projects\C#\Lab 1\calculate total bill\calculate total bill\obj\Debug\calculate total bill.exe
+E:\BCA projects\C#\Lab 1\calculate total bill\calculate total bill\obj\Debug\calculate total bill.pdb
