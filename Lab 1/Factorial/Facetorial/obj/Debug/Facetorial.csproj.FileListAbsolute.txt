@@ -1,0 +1,8 @@
+E:\BCA projects\C#\Lab 1\Facetorial\Facetorial\bin\Debug\Facetorial.exe.config
+E:\BCA projects\C#\Lab 1\Facetorial\Facetorial\bin\Debug\Facetorial.exe
+E:\BCA projects\C#\Lab 1\Facetorial\Facetorial\bin\Debug\Facetorial.pdb
+E:\BCA projects\C#\Lab 1\Facetorial\Facetorial\obj\Debug\Facetorial.exe
+E:\BCA projects\C#\Lab 1\Facetorial\Facetorial\obj\Debug\Facetorial.pdb
+E:\BCA projects\C#\Lab 1\Factorial\Facetorial\bin\Debug\Facetorial.exe.config
+E:\BCA projects\C#\Lab 1\Factorial\Facetorial\obj\Debug\Facetorial.exe
+E:\BCA projects\C#\Lab 1\Factorial\Facetorial\obj\Debug\Facetorial.pdb

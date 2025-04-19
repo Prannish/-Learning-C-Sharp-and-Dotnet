@@ -1,0 +1,5 @@
+E:\BCA projects\C#\Lab 1\convert seconds into hours\convert seconds into hours\bin\Debug\convert seconds into hours.exe.config
+E:\BCA projects\C#\Lab 1\convert seconds into hours\convert seconds into hours\bin\Debug\convert seconds into hours.exe
+E:\BCA projects\C#\Lab 1\convert seconds into hours\convert seconds into hours\bin\Debug\convert seconds into hours.pdb
+E:\BCA projects\C#\Lab 1\convert seconds into hours\convert seconds into hours\obj\Debug\convert seconds into hours.exe
+E:\BCA projects\C#\Lab 1\convert seconds into hours\convert seconds into hours\obj\Debug\convert seconds into hours.pdb

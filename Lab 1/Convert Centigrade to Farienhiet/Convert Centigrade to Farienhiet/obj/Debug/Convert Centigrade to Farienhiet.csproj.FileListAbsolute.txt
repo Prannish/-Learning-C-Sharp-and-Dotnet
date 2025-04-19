@@ -1,0 +1,5 @@
+E:\BCA projects\C#\Lab 1\Convert Centigrade to Farienhiet\Convert Centigrade to Farienhiet\bin\Debug\Convert Centigrade to Farienhiet.exe.config
+E:\BCA projects\C#\Lab 1\Convert Centigrade to Farienhiet\Convert Centigrade to Farienhiet\bin\Debug\Convert Centigrade to Farienhiet.exe
+E:\BCA projects\C#\Lab 1\Convert Centigrade to Farienhiet\Convert Centigrade to Farienhiet\bin\Debug\Convert Centigrade to Farienhiet.pdb
+E:\BCA projects\C#\Lab 1\Convert Centigrade to Farienhiet\Convert Centigrade to Farienhiet\obj\Debug\Convert Centigrade to Farienhiet.exe
+E:\BCA projects\C#\Lab 1\Convert Centigrade to Farienhiet\Convert Centigrade to Farienhiet\obj\Debug\Convert Centigrade to Farienhiet.pdb
