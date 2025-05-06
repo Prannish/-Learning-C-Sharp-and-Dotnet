@@ -1,0 +1,14 @@
+E:\BCA projects\C#\Lab 2\object types and dynamics\object types and dynamics\bin\Debug\net8.0\object types and dynamics.exe
+E:\BCA projects\C#\Lab 2\object types and dynamics\object types and dynamics\bin\Debug\net8.0\object types and dynamics.deps.json
+E:\BCA projects\C#\Lab 2\object types and dynamics\object types and dynamics\bin\Debug\net8.0\object types and dynamics.runtimeconfig.json
+E:\BCA projects\C#\Lab 2\object types and dynamics\object types and dynamics\bin\Debug\net8.0\object types and dynamics.dll
+E:\BCA projects\C#\Lab 2\object types and dynamics\object types and dynamics\bin\Debug\net8.0\object types and dynamics.pdb
+E:\BCA projects\C#\Lab 2\object types and dynamics\object types and dynamics\obj\Debug\net8.0\object types and dynamics.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA projects\C#\Lab 2\object types and dynamics\object types and dynamics\obj\Debug\net8.0\object types and dynamics.AssemblyInfoInputs.cache
+E:\BCA projects\C#\Lab 2\object types and dynamics\object types and dynamics\obj\Debug\net8.0\object types and dynamics.AssemblyInfo.cs
+E:\BCA projects\C#\Lab 2\object types and dynamics\object types and dynamics\obj\Debug\net8.0\object types and dynamics.csproj.CoreCompileInputs.cache
+E:\BCA projects\C#\Lab 2\object types and dynamics\object types and dynamics\obj\Debug\net8.0\object types and dynamics.dll
+E:\BCA projects\C#\Lab 2\object types and dynamics\object types and dynamics\obj\Debug\net8.0\refint\object types and dynamics.dll
+E:\BCA projects\C#\Lab 2\object types and dynamics\object types and dynamics\obj\Debug\net8.0\object types and dynamics.pdb
+E:\BCA projects\C#\Lab 2\object types and dynamics\object types and dynamics\obj\Debug\net8.0\object types and dynamics.genruntimeconfig.cache
+E:\BCA projects\C#\Lab 2\object types and dynamics\object types and dynamics\obj\Debug\net8.0\ref\object types and dynamics.dll

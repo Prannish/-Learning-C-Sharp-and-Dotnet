@@ -1,0 +1,14 @@
+E:\BCA projects\C#\Lab 2\Sealed class\Sealed class\bin\Debug\net8.0\Sealed class.exe
+E:\BCA projects\C#\Lab 2\Sealed class\Sealed class\bin\Debug\net8.0\Sealed class.deps.json
+E:\BCA projects\C#\Lab 2\Sealed class\Sealed class\bin\Debug\net8.0\Sealed class.runtimeconfig.json
+E:\BCA projects\C#\Lab 2\Sealed class\Sealed class\bin\Debug\net8.0\Sealed class.dll
+E:\BCA projects\C#\Lab 2\Sealed class\Sealed class\bin\Debug\net8.0\Sealed class.pdb
+E:\BCA projects\C#\Lab 2\Sealed class\Sealed class\obj\Debug\net8.0\Sealed class.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA projects\C#\Lab 2\Sealed class\Sealed class\obj\Debug\net8.0\Sealed class.AssemblyInfoInputs.cache
+E:\BCA projects\C#\Lab 2\Sealed class\Sealed class\obj\Debug\net8.0\Sealed class.AssemblyInfo.cs
+E:\BCA projects\C#\Lab 2\Sealed class\Sealed class\obj\Debug\net8.0\Sealed class.csproj.CoreCompileInputs.cache
+E:\BCA projects\C#\Lab 2\Sealed class\Sealed class\obj\Debug\net8.0\Sealed class.dll
+E:\BCA projects\C#\Lab 2\Sealed class\Sealed class\obj\Debug\net8.0\refint\Sealed class.dll
+E:\BCA projects\C#\Lab 2\Sealed class\Sealed class\obj\Debug\net8.0\Sealed class.pdb
+E:\BCA projects\C#\Lab 2\Sealed class\Sealed class\obj\Debug\net8.0\Sealed class.genruntimeconfig.cache
+E:\BCA projects\C#\Lab 2\Sealed class\Sealed class\obj\Debug\net8.0\ref\Sealed class.dll
