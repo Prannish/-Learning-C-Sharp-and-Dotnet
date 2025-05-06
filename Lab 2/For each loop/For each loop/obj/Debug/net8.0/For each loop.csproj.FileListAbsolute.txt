@@ -1,0 +1,14 @@
+E:\BCA projects\C#\Lab 2\For each loop\For each loop\bin\Debug\net8.0\For each loop.exe
+E:\BCA projects\C#\Lab 2\For each loop\For each loop\bin\Debug\net8.0\For each loop.deps.json
+E:\BCA projects\C#\Lab 2\For each loop\For each loop\bin\Debug\net8.0\For each loop.runtimeconfig.json
+E:\BCA projects\C#\Lab 2\For each loop\For each loop\bin\Debug\net8.0\For each loop.dll
+E:\BCA projects\C#\Lab 2\For each loop\For each loop\bin\Debug\net8.0\For each loop.pdb
+E:\BCA projects\C#\Lab 2\For each loop\For each loop\obj\Debug\net8.0\For each loop.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA projects\C#\Lab 2\For each loop\For each loop\obj\Debug\net8.0\For each loop.AssemblyInfoInputs.cache
+E:\BCA projects\C#\Lab 2\For each loop\For each loop\obj\Debug\net8.0\For each loop.AssemblyInfo.cs
+E:\BCA projects\C#\Lab 2\For each loop\For each loop\obj\Debug\net8.0\For each loop.csproj.CoreCompileInputs.cache
+E:\BCA projects\C#\Lab 2\For each loop\For each loop\obj\Debug\net8.0\For each loop.dll
+E:\BCA projects\C#\Lab 2\For each loop\For each loop\obj\Debug\net8.0\refint\For each loop.dll
+E:\BCA projects\C#\Lab 2\For each loop\For each loop\obj\Debug\net8.0\For each loop.pdb
+E:\BCA projects\C#\Lab 2\For each loop\For each loop\obj\Debug\net8.0\For each loop.genruntimeconfig.cache
+E:\BCA projects\C#\Lab 2\For each loop\For each loop\obj\Debug\net8.0\ref\For each loop.dll

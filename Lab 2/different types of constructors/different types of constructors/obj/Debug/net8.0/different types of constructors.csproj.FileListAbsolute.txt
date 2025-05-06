@@ -1,0 +1,14 @@
+E:\BCA projects\C#\Lab 2\different types of constructors\different types of constructors\bin\Debug\net8.0\different types of constructors.exe
+E:\BCA projects\C#\Lab 2\different types of constructors\different types of constructors\bin\Debug\net8.0\different types of constructors.deps.json
+E:\BCA projects\C#\Lab 2\different types of constructors\different types of constructors\bin\Debug\net8.0\different types of constructors.runtimeconfig.json
+E:\BCA projects\C#\Lab 2\different types of constructors\different types of constructors\bin\Debug\net8.0\different types of constructors.dll
+E:\BCA projects\C#\Lab 2\different types of constructors\different types of constructors\bin\Debug\net8.0\different types of constructors.pdb
+E:\BCA projects\C#\Lab 2\different types of constructors\different types of constructors\obj\Debug\net8.0\different types of constructors.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA projects\C#\Lab 2\different types of constructors\different types of constructors\obj\Debug\net8.0\different types of constructors.AssemblyInfoInputs.cache
+E:\BCA projects\C#\Lab 2\different types of constructors\different types of constructors\obj\Debug\net8.0\different types of constructors.AssemblyInfo.cs
+E:\BCA projects\C#\Lab 2\different types of constructors\different types of constructors\obj\Debug\net8.0\different types of constructors.csproj.CoreCompileInputs.cache
+E:\BCA projects\C#\Lab 2\different types of constructors\different types of constructors\obj\Debug\net8.0\different types of constructors.dll
+E:\BCA projects\C#\Lab 2\different types of constructors\different types of constructors\obj\Debug\net8.0\refint\different types of constructors.dll
+E:\BCA projects\C#\Lab 2\different types of constructors\different types of constructors\obj\Debug\net8.0\different types of constructors.pdb
+E:\BCA projects\C#\Lab 2\different types of constructors\different types of constructors\obj\Debug\net8.0\different types of constructors.genruntimeconfig.cache
+E:\BCA projects\C#\Lab 2\different types of constructors\different types of constructors\obj\Debug\net8.0\ref\different types of constructors.dll
