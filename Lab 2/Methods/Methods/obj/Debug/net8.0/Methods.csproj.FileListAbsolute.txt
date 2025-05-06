@@ -1,0 +1,14 @@
+E:\BCA projects\C#\Lab 2\Methods\Methods\bin\Debug\net8.0\Methods.exe
+E:\BCA projects\C#\Lab 2\Methods\Methods\bin\Debug\net8.0\Methods.deps.json
+E:\BCA projects\C#\Lab 2\Methods\Methods\bin\Debug\net8.0\Methods.runtimeconfig.json
+E:\BCA projects\C#\Lab 2\Methods\Methods\bin\Debug\net8.0\Methods.dll
+E:\BCA projects\C#\Lab 2\Methods\Methods\bin\Debug\net8.0\Methods.pdb
+E:\BCA projects\C#\Lab 2\Methods\Methods\obj\Debug\net8.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA projects\C#\Lab 2\Methods\Methods\obj\Debug\net8.0\Methods.AssemblyInfoInputs.cache
+E:\BCA projects\C#\Lab 2\Methods\Methods\obj\Debug\net8.0\Methods.AssemblyInfo.cs
+E:\BCA projects\C#\Lab 2\Methods\Methods\obj\Debug\net8.0\Methods.csproj.CoreCompileInputs.cache
+E:\BCA projects\C#\Lab 2\Methods\Methods\obj\Debug\net8.0\Methods.dll
+E:\BCA projects\C#\Lab 2\Methods\Methods\obj\Debug\net8.0\refint\Methods.dll
+E:\BCA projects\C#\Lab 2\Methods\Methods\obj\Debug\net8.0\Methods.pdb
+E:\BCA projects\C#\Lab 2\Methods\Methods\obj\Debug\net8.0\Methods.genruntimeconfig.cache
+E:\BCA projects\C#\Lab 2\Methods\Methods\obj\Debug\net8.0\ref\Methods.dll

@@ -1,0 +1,14 @@
+E:\BCA projects\C#\Lab 2\jagged array\jagged array\bin\Debug\net8.0\jagged array.exe
+E:\BCA projects\C#\Lab 2\jagged array\jagged array\bin\Debug\net8.0\jagged array.deps.json
+E:\BCA projects\C#\Lab 2\jagged array\jagged array\bin\Debug\net8.0\jagged array.runtimeconfig.json
+E:\BCA projects\C#\Lab 2\jagged array\jagged array\bin\Debug\net8.0\jagged array.dll
+E:\BCA projects\C#\Lab 2\jagged array\jagged array\bin\Debug\net8.0\jagged array.pdb
+E:\BCA projects\C#\Lab 2\jagged array\jagged array\obj\Debug\net8.0\jagged array.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA projects\C#\Lab 2\jagged array\jagged array\obj\Debug\net8.0\jagged array.AssemblyInfoInputs.cache
+E:\BCA projects\C#\Lab 2\jagged array\jagged array\obj\Debug\net8.0\jagged array.AssemblyInfo.cs
+E:\BCA projects\C#\Lab 2\jagged array\jagged array\obj\Debug\net8.0\jagged array.csproj.CoreCompileInputs.cache
+E:\BCA projects\C#\Lab 2\jagged array\jagged array\obj\Debug\net8.0\jagged array.dll
+E:\BCA projects\C#\Lab 2\jagged array\jagged array\obj\Debug\net8.0\refint\jagged array.dll
+E:\BCA projects\C#\Lab 2\jagged array\jagged array\obj\Debug\net8.0\jagged array.pdb
+E:\BCA projects\C#\Lab 2\jagged array\jagged array\obj\Debug\net8.0\jagged array.genruntimeconfig.cache
+E:\BCA projects\C#\Lab 2\jagged array\jagged array\obj\Debug\net8.0\ref\jagged array.dll

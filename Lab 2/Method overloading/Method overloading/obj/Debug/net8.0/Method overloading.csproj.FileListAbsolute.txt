@@ -1,0 +1,14 @@
+E:\BCA projects\C#\Lab 2\Method overloading\Method overloading\bin\Debug\net8.0\Method overloading.exe
+E:\BCA projects\C#\Lab 2\Method overloading\Method overloading\bin\Debug\net8.0\Method overloading.deps.json
+E:\BCA projects\C#\Lab 2\Method overloading\Method overloading\bin\Debug\net8.0\Method overloading.runtimeconfig.json
+E:\BCA projects\C#\Lab 2\Method overloading\Method overloading\bin\Debug\net8.0\Method overloading.dll
+E:\BCA projects\C#\Lab 2\Method overloading\Method overloading\bin\Debug\net8.0\Method overloading.pdb
+E:\BCA projects\C#\Lab 2\Method overloading\Method overloading\obj\Debug\net8.0\Method overloading.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA projects\C#\Lab 2\Method overloading\Method overloading\obj\Debug\net8.0\Method overloading.AssemblyInfoInputs.cache
+E:\BCA projects\C#\Lab 2\Method overloading\Method overloading\obj\Debug\net8.0\Method overloading.AssemblyInfo.cs
+E:\BCA projects\C#\Lab 2\Method overloading\Method overloading\obj\Debug\net8.0\Method overloading.csproj.CoreCompileInputs.cache
+E:\BCA projects\C#\Lab 2\Method overloading\Method overloading\obj\Debug\net8.0\Method overloading.dll
+E:\BCA projects\C#\Lab 2\Method overloading\Method overloading\obj\Debug\net8.0\refint\Method overloading.dll
+E:\BCA projects\C#\Lab 2\Method overloading\Method overloading\obj\Debug\net8.0\Method overloading.pdb
+E:\BCA projects\C#\Lab 2\Method overloading\Method overloading\obj\Debug\net8.0\Method overloading.genruntimeconfig.cache
+E:\BCA projects\C#\Lab 2\Method overloading\Method overloading\obj\Debug\net8.0\ref\Method overloading.dll
